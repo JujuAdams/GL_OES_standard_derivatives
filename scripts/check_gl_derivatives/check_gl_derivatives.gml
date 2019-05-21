@@ -31,7 +31,7 @@ return (_test > 0);
 
 
 /*
-shdFragDepthCheckCompatibility:
+shdDerivativesCheckCompatibility:
 
 ##### Vertex #####
 
