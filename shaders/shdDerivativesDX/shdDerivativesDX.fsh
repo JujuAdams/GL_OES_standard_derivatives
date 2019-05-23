@@ -1,5 +1,5 @@
 //GM doesn't usually enable standard derivative functions, but we can force it on
-#extension GL_OES_standard_derivatives : enable
+#extension GL_OES_standard_derivatives : require
 
 varying vec2 v_vTexcoord;
 varying vec4 v_vColour;
