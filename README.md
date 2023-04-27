@@ -1,6 +1,6 @@
 <h1 align="center">GL_OES_standard_derivatives</h1>
 
-### @jujuadams
+### [Juju Adams](https://www.jujuadams.com/)
 
 Simple example of GL_OES_standard_derivatives use.
 
